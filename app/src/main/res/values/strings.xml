@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EditTextサンプル</string>
+    <string name="edit_hint">通常EditText</string>
+    <string name="edit_hint_with_input_text_layout">InputTextLayout付き</string>
+    <string name="edit_hint_with_error_and_icon">エラーで下部とアイコン表示</string>
+    <string name="ex_edit_hint">カスタムEditText</string>
+
+    <string name="error_message_is_empty">入力必須です。</string>
+    <string name="error_message_invalid_char">英数字のみ入力してください。</string>
+</resources>
